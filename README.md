@@ -10,7 +10,7 @@ Maquette : La maquette originale est disponible sur Figma : https://www.figma.co
 
 Étapes de Développement :
 
-1. Cloner le repository sur votre machine locale : git clone
+1. Cloner le repository sur votre machine locale : git clone  git clone via le liens: https://github.com/MF-didier/booki-start-master.git
 
 2. Ouvrir le fichier index.html dans votre navigateur préféré pour visualiser la reproduction de la maquette "Booki"
 
